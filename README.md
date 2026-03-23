@@ -2,7 +2,7 @@
 <div align="center">
 
 ```
-██╗   ██╗ █████╗ ██╗██████╗ █████╗ ██╗   ██╗
+██╗   ██╗ █████╗ ██╗██████╗ █████╗  ██╗   ██╗
 ██║   ██║██╔══██╗██║██╔══██╗██╔══██╗██║   ██║
 ██║   ██║███████║██║██████╔╝███████║██║   ██║
 ╚██╗ ██╔╝██╔══██║██║██╔══██╗██╔══██║╚██╗ ██╔╝
@@ -12,7 +12,7 @@
 
 ### ECE @ UT Austin · Software Engineer
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=F97316&center=true&vCenter=true&width=600&lines=Embedded+Systems+%2B+Full-Stack+Dev;ARM+Cortex-M+%7C+React+Native+%7C+PyTorch;Building+things+that+matter+%F0%9F%9A%80)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=F97316&center=true&vCenter=true&width=600&lines=Hi+my+name+is+Vaibav+%F0%9F%9A%80)](https://git.io/typing-svg)
 
 </div>
 
@@ -29,7 +29,7 @@ university: University of Texas at Austin
 major:      Electrical & Computer Engineering (May 2028)
 gpa:        3.75
 org:        Convergent @ UT — Tech Team, Longhorn Life Sciences
-interests:  [embedded systems, ML, startups, full-stack dev]
+interests:  [embedded systems, computer architecture ML, startups, full-stack dev]
 ```
 
 ---
@@ -81,12 +81,6 @@ interests:  [embedded systems, ML, startups, full-stack dev]
 <div align="center">
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=vvaibavs&theme=tokyonight&hide_border=true&background=0d1117&stroke=F97316&ring=F97316&fire=FF6347&currStreakLabel=F97316)](https://git.io/streak-stats)
-
-</div>
-
-<div align="center">
-
-[![Vaibav's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=vvaibavs&bg_color=0d1117&color=F97316&line=F97316&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
