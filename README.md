@@ -35,7 +35,7 @@ interests:  [embedded systems, computer architecture, ML/AI, startups, full-stac
 ---
 
 <!-- Tech Stack -->
-## `$ cat tech_stack.json`
+## `Tech Stack`
 
 <div align="center">
 
@@ -77,7 +77,7 @@ interests:  [embedded systems, computer architecture, ML/AI, startups, full-stac
 ---
 
 <!-- Connect -->
-## `$ curl -s links.json`
+## `Links`
 
 <div align="center">
 
