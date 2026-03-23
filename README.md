@@ -29,7 +29,7 @@ university: University of Texas at Austin
 major:      Electrical & Computer Engineering (May 2028)
 gpa:        3.75
 org:        Convergent @ UT — Tech Team, Longhorn Life Sciences
-interests:  [embedded systems, computer architecture ML, startups, full-stack dev]
+interests:  [embedded systems, computer architecture, ML/AI, startups, full-stack dev]
 ```
 
 ---
