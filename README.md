@@ -19,7 +19,7 @@
 ---
 
 <!-- About -->
-## `$ whoami`
+## `Who Am I`
 
 ```yaml
 name:       Vaibav
@@ -90,6 +90,6 @@ interests:  [embedded systems, computer architecture, ML/AI, startups, full-stac
 
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=F97316&style=flat-square&label=profile+views)
+![Profile Views](https://komarev.com/ghpvc/?username=vvaibavs&color=F97316&style=flat-square&label=profile+views)
 
 </div>
