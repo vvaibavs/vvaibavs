@@ -22,7 +22,7 @@
 ## `$ whoami`
 
 ```yaml
-name:       Vaibhav
+name:       Vaibav
 pronouns:   he/him
 location:   Austin, TX 🤘
 university: University of Texas at Austin
@@ -81,13 +81,13 @@ currently:  building cool things, exploring YC-track startup ideas
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true&background=0d1117&stroke=F97316&ring=F97316&fire=FF6347&currStreakLabel=F97316)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=vvaibavs&theme=tokyonight&hide_border=true&background=0d1117&stroke=F97316&ring=F97316&fire=FF6347&currStreakLabel=F97316)](https://git.io/streak-stats)
 
 </div>
 
 <div align="center">
 
-[![Vaibhav's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&bg_color=0d1117&color=F97316&line=F97316&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Vaibav's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=vvaibavs&bg_color=0d1117&color=F97316&line=F97316&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
@@ -97,11 +97,11 @@ currently:  building cool things, exploring YC-track startup ideas
 ## `$ ls -la projects/`
 
 ```
-drwxr-xr-x  🔬  Longhorn Life Sciences (via Convergent) — medical tech startup
-drwxr-xr-x  📡  Seismic CNN — SCALODEEP earthquake detection replication (PyTorch)
-drwxr-xr-x  🏥  Prior Auth AI — AI-assisted prior authorization for medical practices
-drwxr-xr-x  📱  Patient Monitoring App — React Native + Firebase (nurse/patient roles)
-drwxr-xr-x  🤖  ECE319K Labs — ARM Cortex-M assembly, SPI, embedded I/O
+🔬  Longhorn Life Sciences (via Convergent) — medical tech startup
+📡  Seismic CNN — SCALODEEP earthquake detection replication (PyTorch)
+🏥  Prior Auth AI — AI-assisted prior authorization for medical practices
+📱  Patient Monitoring App — React Native + Firebase (nurse/patient roles)
+🤖  ECE319K Labs — ARM Cortex-M assembly, SPI, embedded I/O
 ```
 
 ---
@@ -133,8 +133,6 @@ drwxr-xr-x  🤖  ECE319K Labs — ARM Cortex-M assembly, SPI, embedded I/O
 ---
 
 <div align="center">
-
-*"The best way to predict the future is to build it."*
 
 ![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=F97316&style=flat-square&label=profile+views)
 
